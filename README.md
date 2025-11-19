@@ -38,7 +38,7 @@ navigate to:\
 
 ## ▶️ How to Use
 
-1.  **Save the script** as `Zoom-extract.ps1`\
+1.  **Save the script** as `run-meh.ps1`\
 
 2.  **Open PowerShell**
 
@@ -53,7 +53,7 @@ navigate to:\
 5.  **Run the script**:
 
     ``` powershell
-    .\zoom-extract.ps1
+    .\run-meh.ps1
     ```
 
 6.  🎉 Your exported images will appear in your destination folder.
