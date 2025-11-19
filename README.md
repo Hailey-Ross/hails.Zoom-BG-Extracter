@@ -1,4 +1,4 @@
-# 🚀 Zoom Virtual Background Exporter
+# 🚀 Zoom Virtual Background Extractor
 
 *A simple PowerShell utility to back up and extract your Zoom virtual
 background images.*
