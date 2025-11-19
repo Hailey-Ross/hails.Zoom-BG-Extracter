@@ -53,7 +53,7 @@ navigate to:\
 5.  **Run the script**:
 
     ``` powershell
-    .\\Export-ZoomBackgrounds.ps1
+    .\zoom-extract.ps1
     ```
 
 6.  🎉 Your exported images will appear in your destination folder.
